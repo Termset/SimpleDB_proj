@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/6.830-lab2/lib/zql.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

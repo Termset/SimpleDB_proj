@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38b5c099-9682-4729-a078-c4607a292282" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/dist/simpledb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/LICENSE.jzlib.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/LICENSE.mina.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/LICENSE.slf4j.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/jline-0.9.94.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/junit-4.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/jzlib-1.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/mina-core-2.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/mina-filter-compression-2.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/slf4j-api-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/lib/zql.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/some_data_file.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/BufferPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Catalog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/DbException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/DbFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/DbFileIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/DbIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Debug.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Field.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/HeapFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/HeapFileEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/HeapPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/HeapPageId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/IntField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/LogFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/PageId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Permissions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Predicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/RecordId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/SeqScan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/SimpleDb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/StringField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/TransactionAbortedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/TransactionId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Tuple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/TupleDesc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/TupleIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/src/java/simpledb/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/CatalogTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/HeapFileReadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/HeapPageIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/HeapPageReadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/RecordIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/TestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/TupleDescTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/TupleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/systemtest/ScanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/systemtest/SimpleDbTestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS186-proj1/test/simpledb/systemtest/SystemTestUtil.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2123529815">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-459609818">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpledb/Catalog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="390" />
+    <option name="y" value="20" />
+    <option name="width" value="1420" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab_1" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab_1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544707616800" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../6.830-lab2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in lab_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in lab_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38b5c099-9682-4729-a078-c4607a292282" name="Default Changelist" comment="" />
+      <created>1542012687054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542012687054</updated>
+      <workItem from="1542012688274" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_lab_1 - 2018.12.13 at 21h 26m 38s.xml">
+      <configuration name="All in lab_1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/simpledb/Catalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lab_1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

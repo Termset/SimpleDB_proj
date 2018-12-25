@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/BufferPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/Catalog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/DbFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/HeapFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/HeapPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/HeapPageId.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/RecordId.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/SeqScan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/Tuple.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/src/simpledb/TupleDesc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/test/simpledb/systemtest/ScanTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab1/test/simpledb/systemtest/SystemTestUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab2/src/simpledb/Catalog.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/6.830-lab2/src/simpledb/HeapFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab2/src/simpledb/HeapFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab2/test/simpledb/systemtest/ScanTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/Aggregate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/BufferPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/Catalog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/DbIterator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/Delete.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/Filter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/HeapFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/HeapFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/HeapPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/HeapPageId.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/Insert.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/IntHistogram.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/IntegerAggregator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/Join.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/JoinOptimizer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/JoinPredicate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/LockManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/LogicalPlan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/LruCache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/PageLruCache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/Predicate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/Project.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/QueryPlanVisualizer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/SeqScan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/StringAggregator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/StringField.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/StringHistogram.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/TableStats.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/TupleDesc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6.830-lab3/src/simpledb/Type.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
